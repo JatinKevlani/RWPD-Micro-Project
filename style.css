@@ -1,0 +1,10 @@
+body {
+    padding-top: 56px;
+    /* Adjusted for fixed navbar */
+}
+
+.product {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+}
